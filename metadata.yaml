@@ -1,0 +1,26 @@
+_repo: Over-The-Border-A-Romance_55327
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barr, Robert
+    birthdate: 1850
+    deathdate: 1912
+    gutenberg_agent_id: '1616'
+    url: http://www.gutenberg.org/2009/agents/1616
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Barr_%28writer%29
+description: ''
+gutenberg_issued: '2017-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Charles I, 1625-1649 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Over The Border: A Romance'
+url: http://www.gutenberg.org/ebooks/55327
